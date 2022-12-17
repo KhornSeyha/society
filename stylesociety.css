@@ -1,0 +1,77 @@
+body{
+    margin: 0px;
+    
+}
+.ba-chairman{
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    width: 100%;
+}
+.chairman{
+   
+    height: 100px;
+    width: 50%;
+    margin: 0px auto;
+    text-align: center;
+    color: white;
+    font-family: Khmer OS Fasthand;
+    font-size: 50px;
+    font-weight: 900;
+
+}
+.ba-home{       
+    height: 40px;
+    width: 60%;
+    margin: 0px auto;
+   
+} 
+.home{
+    background-color: #000000;
+    font-family: Khmer OS Fasthand;
+    height: 40px;
+    width: 7%;
+    clip-path: polygon(0 0, 74% 0, 100% 100%, 0% 100%);
+    padding: 0px 15px;
+    color: aliceblue;
+
+}   
+.home-tabs{
+    background-color: #000000;
+    height: 3px;
+    width: 60%;
+    margin: 0px auto;
+
+} 
+.tab{
+    
+    height: 500px;
+    width: 60%;
+    margin: 0px auto;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 3px 6px 14px 1px rgba(0,0,0,0.72);
+
+}
+.Box{
+    background-color: aquamarine;
+    height: 300px;
+    width: 96%;
+    margin: 0px auto;
+    
+}
+.Box-News1{
+    background-color: blueviolet;
+    height: 300px;
+    width: 50%;
+    float: left;
+    
+    
+}
+
+.Box-News2{
+   background-color: rgb(28, 28, 120);
+    height: 300px;
+    width: 50%;
+    float: right;
+}
+
